@@ -1,1 +1,1 @@
-readme.md
+Script for task WebDriverWait lesson
